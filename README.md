@@ -22,7 +22,7 @@ Skips users that already exist to prevent duplicates.
 4. Verify accounts in Active Directory Users and Computers
 
 ## Script output
-![PowerShell Output](Power Shell Script.png)
+![PowerShell Output](PowerShellScript.png)
 
 ## Active Directory verification
 ![AD Users](NewUsersCreated.png)
